@@ -4,7 +4,7 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.manleyinc.untapped",
-      "sha256_cert_fingerprints": ["9F:C4:F1:6A:3A:94:69:B7:54:C1:18:F8:F2:3C:DF:05:D0:14:C8:3C:E7:49:B8:53:B2:E2:6A:EE:E1:1F:84:07"]
+      "sha256_cert_fingerprints": ["9F:C4:F1:6A:3A:94:69:B7:54:C1:18:F8:F2:3C:DF:05:D0:14:C8:3C:E7:49:B8:53:B2:E2:6A:EE:E1:1F:84:07", "74:8C:84:34:6B:E2:E5:5B:61:3D:FD:FD:A5:F4:0A:BC:2E:D7:DB:0F:4A:BC:8C:F2:A4:8A:53:8A:A6:E7:5D:50"]
     }
   },
   {
@@ -12,7 +12,7 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.manleyinc.shopwise",
-      "sha256_cert_fingerprints": ["5F:0C:23:FA:8F:DE:0B:C9:FE:FD:87:91:99:BA:AE:F7:3C:02:A0:13:0A:9A:C2:A4:1C:C7:DE:1F:D7:40:28:D7"]
+      "sha256_cert_fingerprints": ["5F:0C:23:FA:8F:DE:0B:C9:FE:FD:87:91:99:BA:AE:F7:3C:02:A0:13:0A:9A:C2:A4:1C:C7:DE:1F:D7:40:28:D7", "89:1C:94:E0:BF:9A:B0:8E:23:DA:18:1E:45:42:29:CD:5F:14:53:6D:24:C0:95:20:22:5B:D3:F8:B5:34:3D:44"]
     }
   }
 ]
