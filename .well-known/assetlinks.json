@@ -1,0 +1,18 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.manleyinc.untapped",
+      "sha256_cert_fingerprints": ["9F:C4:F1:6A:3A:94:69:B7:54:C1:18:F8:F2:3C:DF:05:D0:14:C8:3C:E7:49:B8:53:B2:E2:6A:EE:E1:1F:84:07"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.manleyinc.shopwise",
+      "sha256_cert_fingerprints": ["5F:0C:23:FA:8F:DE:0B:C9:FE:FD:87:91:99:BA:AE:F7:3C:02:A0:13:0A:9A:C2:A4:1C:C7:DE:1F:D7:40:28:D7"]
+    }
+  }
+]
